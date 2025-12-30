@@ -1,0 +1,40 @@
+body{
+    font-size: 30px;
+    text-align: center;
+        background: linear-gradient( to right, skyblue, lightgreen );
+
+}
+#p1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#box1{
+
+    height: 100px;
+    width:auto;
+    background-color: black;
+    border-radius: 15px;
+    
+}
+#box2{
+
+    height: 600px;
+    width:600px;
+    background-color: black;
+    border-radius: 15px;
+    background-image:url(PN.jpeg);
+    background-size: cover;
+    margin: auto;
+}
+button{
+    margin: auto;
+    width: 700; 
+    height: 70px;
+    border-style: inset;
+    border-width: 10px;
+    background-color: green;
+    border-radius: 50px;
+    border-color: greenyellow;
+}
+

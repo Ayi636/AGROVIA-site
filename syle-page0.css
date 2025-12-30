@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+
+}
+h1{
+    color: tomato;
+}
+#box1{
+    height: 100px;
+    width: auto;
+    background-color: tomato;
+    border-radius: 10px;
+}
+#box2{
+    background-color: gray;
+    color: white;
+}
+button{
+    border-color: tomato;
+    background-color: tomato;
+    color: white;
+     height: 50px;
+    width: 175px;
+    border-radius: 5px;
+
+
+}

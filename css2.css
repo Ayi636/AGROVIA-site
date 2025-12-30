@@ -1,0 +1,110 @@
+body{
+
+   
+    background: linear-gradient( to right, skyblue, lightgreen );
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+
+}
+h1{
+    text-decoration:  underline  ;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+
+    
+
+#box1{
+    border: 0cap;
+    border-radius: 10px;
+    width:500px;
+    height: 350px;
+     background-position: center;
+    background-color: brown;
+    padding: 20px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    background-image: url(PN.jpeg);
+    background-size: cover;
+}
+
+#box3{
+    border: 0px solid;
+    border-radius: 10px;
+    background-size: cover;
+    width:500px;
+    height: 350px;
+     
+    background-color: blue;
+    background-image: url(PB.jpeg);
+    padding: 20px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+
+
+
+}
+#box2{
+    border: 0px solid;
+    border-radius: 10px;
+    background-size: cover;
+    width:500px;
+    height: 350px;
+  
+    background-image: url(PM.jpeg);
+    margin-left: 200px;
+    padding: 20px;
+    margin-bottom: 50px;
+    
+}
+#box5{
+     border: 0px solid;
+    border-radius: 10px;
+    background-size: cover;
+    width:500px;
+    height: 350px;
+     background-position: center;
+    background-image: url(egoussi.jpeg);
+    margin-left: 200px;
+    padding: 20px;
+    margin-bottom: 50px;
+    
+    
+
+}
+#box6{
+     border: 0px solid;
+    border-radius: 10px;
+    background-size: cover;
+    width:500px;
+    height: 350px;
+     background-position: center;
+    background-image: url(taps.jpeg);
+    margin-left: 200px;
+    padding: 20px;
+    margin-bottom: 50px;
+    
+
+}
+#box7{
+     border: 0px solid;
+    border-radius: 10px;
+    background-size: cover;
+    width:500px;
+    height: 350px;
+  
+    background-image: url(chichi.jpeg);
+    margin-left: 200px;
+    padding: 20px;
+    margin-bottom: 50px;
+
+}
+#box4{
+    float:left;
+    padding-right: 0cap;
+}
